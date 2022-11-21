@@ -1,2 +1,2 @@
 # steganography
-Python based steganography tools. These tools explore the use of different numbers of bits for LSB steganography as well as some math to preserve image quality.
+Python based steganography tools. LSBSteg_Example.py is the most recent version. The other files were a leanring experience. The new version only supports the least significant bit, but is much faster and easier to understand.
